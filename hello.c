@@ -1,3 +1,9 @@
+/*
+*Matthew Roberts
+*Melvin Githigi
+*Hello world
+*/
+
 #include <stdlib.h>
 #include <stdio.h>
 
